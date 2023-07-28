@@ -1,0 +1,6 @@
+com\desaextremo\retouno\repository\UserRepository.class
+com\desaextremo\retouno\controller\UserController.class
+com\desaextremo\retouno\RetounoApplication.class
+com\desaextremo\retouno\model\User.class
+com\desaextremo\retouno\repository\crud\UserCrudRepository.class
+com\desaextremo\retouno\service\UserService.class
